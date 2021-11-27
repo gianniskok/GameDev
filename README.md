@@ -3,7 +3,7 @@
  - [ ] timestamp if ending
  - [ ] timestamps for fetsing ads of upcoming events
  - [ ] overwriting over past collections
- - [ ] 1155 multitoken for each collection (price, id , available tickets) 
+ - [ ] 1155 semi funginble token for each collection (price, id , available tickets) 
  - [ ] sending funds to artists
  - [ ] sending funds to owner after collection is finished
  - [ ] boolean if completed for faster overwriting (break)
