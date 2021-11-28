@@ -10,3 +10,5 @@
  - [ ] modifier for lower class employees privilages
  - [ ] function for checking if token is valid for user to see the collection
  - [ ] constructor() public ERC1155("https://ipfs{id}") {}
+ - [ ] saving hashes in array 
+ - [ ] deleting when token expires
